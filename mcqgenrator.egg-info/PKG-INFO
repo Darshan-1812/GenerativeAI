@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: mcqgenrator
+Version: 0.0.1
+Author: darshan girase
+Author-email: darshangirase18@gmail.com
+Requires-Dist: google-generativeai
+Requires-Dist: langchain
+Requires-Dist: streamlit
+Requires-Dist: python-dotenv
+Requires-Dist: PyPDF2
